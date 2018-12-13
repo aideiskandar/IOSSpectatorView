@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IOS SpectatorView", "IOS SpectatorView.csproj", "{04697F97-4CE7-64EE-5E7E-D3F83460A053}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IOS SpectatorView.Editor", "IOS SpectatorView.Editor.csproj", "{25DDB455-5C62-C77E-3C66-908C9C5396B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04697F97-4CE7-64EE-5E7E-D3F83460A053}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04697F97-4CE7-64EE-5E7E-D3F83460A053}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04697F97-4CE7-64EE-5E7E-D3F83460A053}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04697F97-4CE7-64EE-5E7E-D3F83460A053}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25DDB455-5C62-C77E-3C66-908C9C5396B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25DDB455-5C62-C77E-3C66-908C9C5396B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25DDB455-5C62-C77E-3C66-908C9C5396B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25DDB455-5C62-C77E-3C66-908C9C5396B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
